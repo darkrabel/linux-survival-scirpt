@@ -4,7 +4,7 @@
 #
 
 #-------------------------------
-# THIS WILL INSTALL ALL THE BANGLA FONTS FOR YOU IN LINUX.
+# THIS WILL INSTALL ALL THE BANGLA FONTS FOR YOU IN LINUX......
 echo "Welcome to http://shmilon.com !!!"
 echo "------------------------------------"
 echo "Now starting to download and install all bangla fonts..........."
