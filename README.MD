@@ -1,1 +1,1 @@
-#This repo contains many scirpts that will help you to install things easily in linux (this is only for benginers)
+# This repo contains many scirpts that will help you to install things easily in linux (this is only for benginers)
